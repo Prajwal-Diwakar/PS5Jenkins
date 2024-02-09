@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="eCom Webapp Test Suite">
+<listeners>
+		
+	
+</listeners>
+
+<test name="Jenkins Test">
+		<classes>
+			<class name="demowebShop_Pages.PS4_ExtentReport"></class>
+		</classes>
+</test>
+
+</suite>

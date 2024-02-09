@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [eCom Webapp Test Suite]">
+  <test thread-count="5" name="Jenkins Test(failed)">
+    <classes>
+      <class name="demowebShop_Pages.PS4_ExtentReport">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="afterClass"/>
+          <include name="beforemethod"/>
+          <include name="beforeTest"/>
+          <include name="testLogin1"/>
+          <include name="testLogin3"/>
+        </methods>
+      </class> <!-- demowebShop_Pages.PS4_ExtentReport -->
+    </classes>
+  </test> <!-- Jenkins Test(failed) -->
+</suite> <!-- Failed suite [eCom Webapp Test Suite] -->

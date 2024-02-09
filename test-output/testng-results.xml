@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-09T21:36:59 IST" name="eCom Webapp Test Suite" finished-at="2024-02-09T21:37:41 IST" duration-ms="41659">
+    <groups>
+    </groups>
+    <test started-at="2024-02-09T21:36:59 IST" name="Jenkins Test" finished-at="2024-02-09T21:37:41 IST" duration-ms="41659">
+      <class name="demowebShop_Pages.PS4_ExtentReport">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:demowebShop_Pages.PS4_ExtentReport@128d2484]" started-at="2024-02-09T21:36:59 IST" name="beforeTest" finished-at="2024-02-09T21:37:00 IST" duration-ms="842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:demowebShop_Pages.PS4_ExtentReport@128d2484]" started-at="2024-02-09T21:37:00 IST" name="beforemethod" finished-at="2024-02-09T21:37:07 IST" duration-ms="6336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="testLogin1()[pri:0, instance:demowebShop_Pages.PS4_ExtentReport@128d2484]" started-at="2024-02-09T21:37:07 IST" name="testLogin1" finished-at="2024-02-09T21:37:15 IST" duration-ms="8563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin1 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:demowebShop_Pages.PS4_ExtentReport@128d2484]" started-at="2024-02-09T21:37:15 IST" name="aftermethod" finished-at="2024-02-09T21:37:16 IST" duration-ms="727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:demowebShop_Pages.PS4_ExtentReport@128d2484]" started-at="2024-02-09T21:37:16 IST" name="beforemethod" finished-at="2024-02-09T21:37:20 IST" duration-ms="3795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="testLogin2()[pri:0, instance:demowebShop_Pages.PS4_ExtentReport@128d2484]" started-at="2024-02-09T21:37:20 IST" name="testLogin2" finished-at="2024-02-09T21:37:26 IST" duration-ms="6307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin2 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:demowebShop_Pages.PS4_ExtentReport@128d2484]" started-at="2024-02-09T21:37:26 IST" name="aftermethod" finished-at="2024-02-09T21:37:27 IST" duration-ms="708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:demowebShop_Pages.PS4_ExtentReport@128d2484]" started-at="2024-02-09T21:37:27 IST" name="beforemethod" finished-at="2024-02-09T21:37:31 IST" duration-ms="3995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="testLogin3()[pri:0, instance:demowebShop_Pages.PS4_ExtentReport@128d2484]" started-at="2024-02-09T21:37:31 IST" name="testLogin3" finished-at="2024-02-09T21:37:39 IST" duration-ms="8575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin3 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:demowebShop_Pages.PS4_ExtentReport@128d2484]" started-at="2024-02-09T21:37:39 IST" name="aftermethod" finished-at="2024-02-09T21:37:40 IST" duration-ms="676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:demowebShop_Pages.PS4_ExtentReport@128d2484]" started-at="2024-02-09T21:37:40 IST" name="afterClass" finished-at="2024-02-09T21:37:41 IST" duration-ms="1024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- demowebShop_Pages.PS4_ExtentReport -->
+    </test> <!-- Jenkins Test -->
+  </suite> <!-- eCom Webapp Test Suite -->
+</testng-results>

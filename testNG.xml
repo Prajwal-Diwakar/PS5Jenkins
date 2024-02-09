@@ -7,7 +7,7 @@
 
 <test name="Jenkins Test">
 		<classes>
-			<class name="demowebShop_Pages.PS4_ExtentReport"></class>
+			<class name="demowebShop_Pages.PS4_ExtentReportr"></class>
 		</classes>
 </test>
 

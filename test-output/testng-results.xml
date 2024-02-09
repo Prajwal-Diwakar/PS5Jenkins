@@ -2,52 +2,52 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-09T22:51:52 IST" name="eCom Webapp Test Suite" finished-at="2024-02-09T22:52:38 IST" duration-ms="45925">
+  <suite started-at="2024-02-09T23:22:00 IST" name="eCom Webapp Test Suite" finished-at="2024-02-09T23:22:42 IST" duration-ms="42098">
     <groups>
     </groups>
-    <test started-at="2024-02-09T22:51:52 IST" name="Jenkins Test" finished-at="2024-02-09T22:52:38 IST" duration-ms="45925">
+    <test started-at="2024-02-09T23:22:00 IST" name="Jenkins Test" finished-at="2024-02-09T23:22:42 IST" duration-ms="42098">
       <class name="demowebShop_Pages.PS4_ExtentReportr">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:demowebShop_Pages.PS4_ExtentReportr@7b2bbc3]" started-at="2024-02-09T22:51:52 IST" name="beforeTest" finished-at="2024-02-09T22:51:52 IST" duration-ms="547" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:demowebShop_Pages.PS4_ExtentReportr@18078bef]" started-at="2024-02-09T23:22:00 IST" name="beforeTest" finished-at="2024-02-09T23:22:00 IST" duration-ms="614" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method is-config="true" signature="beforemethod()[pri:0, instance:demowebShop_Pages.PS4_ExtentReportr@7b2bbc3]" started-at="2024-02-09T22:51:52 IST" name="beforemethod" finished-at="2024-02-09T22:52:02 IST" duration-ms="9950" status="PASS">
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:demowebShop_Pages.PS4_ExtentReportr@18078bef]" started-at="2024-02-09T23:22:00 IST" name="beforemethod" finished-at="2024-02-09T23:22:07 IST" duration-ms="6605" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforemethod -->
-        <test-method signature="testLogin1()[pri:0, instance:demowebShop_Pages.PS4_ExtentReportr@7b2bbc3]" started-at="2024-02-09T22:52:02 IST" name="testLogin1" finished-at="2024-02-09T22:52:11 IST" duration-ms="8601" status="PASS">
+        <test-method signature="testLogin1()[pri:0, instance:demowebShop_Pages.PS4_ExtentReportr@18078bef]" started-at="2024-02-09T23:22:07 IST" name="testLogin1" finished-at="2024-02-09T23:22:16 IST" duration-ms="8596" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin1 -->
-        <test-method is-config="true" signature="aftermethod()[pri:0, instance:demowebShop_Pages.PS4_ExtentReportr@7b2bbc3]" started-at="2024-02-09T22:52:11 IST" name="aftermethod" finished-at="2024-02-09T22:52:11 IST" duration-ms="678" status="PASS">
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:demowebShop_Pages.PS4_ExtentReportr@18078bef]" started-at="2024-02-09T23:22:16 IST" name="aftermethod" finished-at="2024-02-09T23:22:16 IST" duration-ms="723" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftermethod -->
-        <test-method is-config="true" signature="beforemethod()[pri:0, instance:demowebShop_Pages.PS4_ExtentReportr@7b2bbc3]" started-at="2024-02-09T22:52:11 IST" name="beforemethod" finished-at="2024-02-09T22:52:15 IST" duration-ms="3998" status="PASS">
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:demowebShop_Pages.PS4_ExtentReportr@18078bef]" started-at="2024-02-09T23:22:16 IST" name="beforemethod" finished-at="2024-02-09T23:22:21 IST" duration-ms="4356" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforemethod -->
-        <test-method signature="testLogin2()[pri:0, instance:demowebShop_Pages.PS4_ExtentReportr@7b2bbc3]" started-at="2024-02-09T22:52:15 IST" name="testLogin2" finished-at="2024-02-09T22:52:22 IST" duration-ms="6366" status="PASS">
+        <test-method signature="testLogin2()[pri:0, instance:demowebShop_Pages.PS4_ExtentReportr@18078bef]" started-at="2024-02-09T23:22:21 IST" name="testLogin2" finished-at="2024-02-09T23:22:27 IST" duration-ms="6145" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin2 -->
-        <test-method is-config="true" signature="aftermethod()[pri:0, instance:demowebShop_Pages.PS4_ExtentReportr@7b2bbc3]" started-at="2024-02-09T22:52:22 IST" name="aftermethod" finished-at="2024-02-09T22:52:23 IST" duration-ms="698" status="PASS">
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:demowebShop_Pages.PS4_ExtentReportr@18078bef]" started-at="2024-02-09T23:22:27 IST" name="aftermethod" finished-at="2024-02-09T23:22:28 IST" duration-ms="622" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftermethod -->
-        <test-method is-config="true" signature="beforemethod()[pri:0, instance:demowebShop_Pages.PS4_ExtentReportr@7b2bbc3]" started-at="2024-02-09T22:52:23 IST" name="beforemethod" finished-at="2024-02-09T22:52:27 IST" duration-ms="4316" status="PASS">
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:demowebShop_Pages.PS4_ExtentReportr@18078bef]" started-at="2024-02-09T23:22:28 IST" name="beforemethod" finished-at="2024-02-09T23:22:32 IST" duration-ms="4256" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforemethod -->
-        <test-method signature="testLogin3()[pri:0, instance:demowebShop_Pages.PS4_ExtentReportr@7b2bbc3]" started-at="2024-02-09T22:52:27 IST" name="testLogin3" finished-at="2024-02-09T22:52:35 IST" duration-ms="8571" status="PASS">
+        <test-method signature="testLogin3()[pri:0, instance:demowebShop_Pages.PS4_ExtentReportr@18078bef]" started-at="2024-02-09T23:22:32 IST" name="testLogin3" finished-at="2024-02-09T23:22:40 IST" duration-ms="8555" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin3 -->
-        <test-method is-config="true" signature="aftermethod()[pri:0, instance:demowebShop_Pages.PS4_ExtentReportr@7b2bbc3]" started-at="2024-02-09T22:52:35 IST" name="aftermethod" finished-at="2024-02-09T22:52:37 IST" duration-ms="1205" status="PASS">
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:demowebShop_Pages.PS4_ExtentReportr@18078bef]" started-at="2024-02-09T23:22:40 IST" name="aftermethod" finished-at="2024-02-09T23:22:41 IST" duration-ms="672" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftermethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:demowebShop_Pages.PS4_ExtentReportr@7b2bbc3]" started-at="2024-02-09T22:52:37 IST" name="afterClass" finished-at="2024-02-09T22:52:38 IST" duration-ms="879" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:demowebShop_Pages.PS4_ExtentReportr@18078bef]" started-at="2024-02-09T23:22:41 IST" name="afterClass" finished-at="2024-02-09T23:22:42 IST" duration-ms="807" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->

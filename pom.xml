@@ -16,28 +16,28 @@
 
 	<dependencies>
 		<!-- testng -->
-		<dependency>
+		<!--<dependency>
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
 			<version>7.8.0</version>
 			<scope>test</scope>
 		</dependency>
 
-		<!-- selenium-java -->
+		 selenium-java 
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-java</artifactId>
 			<version>4.15.0</version>
 		</dependency>
 
-		<!-- webdrivermanager -->
+		 webdrivermanager 
 		<dependency>
 			<groupId>io.github.bonigarcia</groupId>
 			<artifactId>webdrivermanager</artifactId>
 			<version>4.4.3</version>
 		</dependency>
 
-		<!-- extentreports -->
+		 extentreports 
 		<dependency>
 			<groupId>com.aventstack</groupId>
 			<artifactId>extentreports</artifactId>
@@ -70,6 +70,35 @@
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi-ooxml</artifactId>
 			<version>5.2.5</version>
+		</dependency>-->
+		
+		<!-- testng -->
+		<dependency>
+			<groupId>org.testng</groupId>
+			<artifactId>testng</artifactId>
+			<version>7.8.0</version>
+			<scope>test</scope>
+		</dependency>
+
+		<!-- selenium-java -->
+		<dependency>
+			<groupId>org.seleniumhq.selenium</groupId>
+			<artifactId>selenium-java</artifactId>
+			<version>4.15.0</version>
+		</dependency>
+
+		<!-- webdrivermanager -->
+		<dependency>
+			<groupId>io.github.bonigarcia</groupId>
+			<artifactId>webdrivermanager</artifactId>
+			<version>4.4.3</version>
+		</dependency>
+
+		<!-- extentreports -->
+		<dependency>
+			<groupId>com.aventstack</groupId>
+			<artifactId>extentreports</artifactId>
+			<version>4.1.7</version>
 		</dependency>
 
 </dependencies>
